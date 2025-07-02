@@ -19,7 +19,8 @@ A simple React application to browse and discover recipe categories using [TheMe
 
 ## 📸 Screenshots
 
-![Recipe Discovery Screenshot](./assets/recipe-screenshot.png)
+![Recipe Discovery Screenshot](../assets/recipe-screenshot.png)
+
 
 
 ## 💡 Reflection
