@@ -19,7 +19,8 @@ A simple React application to browse and discover recipe categories using [TheMe
 
 ## 📸 Screenshots
 
-![Recipe Discovery Screenshot](src/recipe-screenshot.png)
+![Recipe Discovery Screenshot](https://raw.githubusercontent.com/callmesophiii/recipes-app/main/src/recipe-screenshot.png)
+
 
 
 
